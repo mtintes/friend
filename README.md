@@ -19,3 +19,7 @@ Examples:
 ```friend april birthday is april 5```
 
 ```friend greg johnson gifts fancy cheeses```
+
+To look a friend up:
+
+  ```friend steve```
