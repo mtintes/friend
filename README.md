@@ -1,32 +1,21 @@
 friend
 ======
 
-help remember stuff about your friends
+Help remember stuff about your friends. This cli can keep track of your friend's birthday, likes, and gift ideas.
 
-[![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/friend.svg)](https://npmjs.org/package/friend)
-[![Downloads/week](https://img.shields.io/npm/dw/friend.svg)](https://npmjs.org/package/friend)
-[![License](https://img.shields.io/npm/l/friend.svg)](https://github.com/mtintes/friend/blob/master/package.json)
-
-<!-- toc -->
 * [Usage](#usage)
-* [Commands](#commands)
-<!-- tocstop -->
-# Usage
-<!-- usage -->
-```sh-session
-$ npm install -g friend
-$ friend COMMAND
-running command...
-$ friend (-v|--version|version)
-friend/0.0.1 linux-x64 node-v14.17.1
-$ friend --help [COMMAND]
-USAGE
-  $ friend COMMAND
-...
-```
-<!-- usagestop -->
-# Commands
-<!-- commands -->
 
-<!-- commandsstop -->
+# Usage
+
+To Install:
+
+  ```npm install -g @mtintes/friend```
+  
+To use it you can call your friend's name and then "likes, birthday, or gifts." 
+Examples:
+
+```friend steve like leaves```
+
+```friend april birthday is april 5```
+
+```friend greg johnson gifts fancy cheeses```
