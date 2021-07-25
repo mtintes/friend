@@ -1,0 +1,33 @@
+{
+  "name": "friend",
+  "description": "help remember stuff about your friends",
+  "version": "0.0.1",
+  "author": "mtintes @mtintes",
+  "bugs": "https://github.com/mtintes/friend/issues",
+  "bin": {
+    "friend": "./src/index.js"
+  },
+  "dependencies": {
+    "dateformat": "^4.5.1",
+    "lodash": "^4.17.21",
+    "lowdb": "^2.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.13"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "files": [
+    "/src"
+  ],
+  "homepage": "https://github.com/mtintes/friend",
+  "keywords": [
+    "friendship"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": "mtintes/friend",
+  "scripts": {},
+  "type": "module"
+}
